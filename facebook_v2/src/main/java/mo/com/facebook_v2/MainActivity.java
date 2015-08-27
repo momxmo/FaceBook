@@ -13,6 +13,7 @@ public class MainActivity extends Activity {
     private ShimmerFrameLayout mShimmerViewContainer;
     private int mCurrentPreset = -1;
     private Toast mPresetToast;
+    //这是一个新的里程碑
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
