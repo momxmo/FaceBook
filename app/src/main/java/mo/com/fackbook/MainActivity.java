@@ -9,10 +9,16 @@ import com.facebook.shimmer.ShimmerFrameLayout;
 
 public class MainActivity extends Activity {
 
+    /**
+     * 加注释测试
+     */
+
     private ShimmerFrameLayout mShimmerViewContainer;
     private Button[] mPresetButtons;
     private int mCurrentPreset = -1;
     private Toast mPresetToast;
+
+
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
